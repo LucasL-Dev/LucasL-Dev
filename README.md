@@ -9,9 +9,9 @@
 ### 📊 Meus stats no GitHub
 
 <div align="center">
-  <img height="174em" src="https://github-readme-stats.vercel.app/api?username=LucasL-Dev&show_icons=true&theme=dark&bg_color=151515&title_color=6c5ce7&icon_color=6c5ce7&text_color=cccccc&rank_icon=github" />
+  <img height="171em" src="https://github-readme-stats.vercel.app/api?username=LucasL-Dev&show_icons=true&theme=dark&bg_color=151515&title_color=6c5ce7&icon_color=6c5ce7&text_color=cccccc&rank_icon=github" />
   <img
-  height="174em"
+  height="171em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasL-Dev&layout=compact&langs_count=8&theme=dark&bg_color=151515&title_color=6c5ce7&text_color=cccccc"
 />
 
