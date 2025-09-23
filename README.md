@@ -6,9 +6,13 @@
   Novo Dev, aprendendo aos poucos mas com bastante força de vontade!🤝
 </p>
 
-### 📊 Meus status no GitHub
+### 📊 Meus stats no GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasL-Dev&show_icons=true&theme=dark&bg_color=151515&title_color=6c5ce7&icon_color=6c5ce7&text_color=cccccc&rank_icon=github" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasL-Dev&layout=compact&theme=dark&bg_color=151515&title_color=6c5ce7&text_color=cccccc" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasL-Dev&show_icons=true&theme=dark&bg_color=151515&title_color=6c5ce7&icon_color=6c5ce7&text_color=cccccc&rank_icon=github" />
+  <img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasL-Dev&layout=compact&langs_count=8&theme=dark&bg_color=151515&title_color=6c5ce7&text_color=cccccc"
+/>
+
 </div>
