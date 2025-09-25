@@ -1,18 +1,43 @@
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZlazhtbGhjN3hnM3B1cWw3cHgxN3htZzRsaWRhZzZubjlqYnlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  />
+
+###
+
+<h1 align="center">hey, Lucas Levi here 👋</h1>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<h5 align="left">I'm Lucas Levi, from Brazil<br><br>- 📚 Student at the Federal Institute<br>- ⚡ In my free time I training</h5>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="center">
-<h1 style="font-size: 1.4em;">Eai! Eu sou o Lucas Levi 👋</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-<p style="font-size: 1.3em; line-height: 1.6;">
-  Novo Dev, aprendendo aos poucos mas com bastante força de vontade!🤝
-</p>
+###
 
-### 📊 Meus stats no GitHub
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasL-Dev&show_icons=true&theme=dark&bg_color=151515&title_color=6c5ce7&icon_color=6c5ce7&text_color=cccccc&rank_icon=github" />
-  <img
-  height="165em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasL-Dev&layout=compact&langs_count=20&include_all_commits=true&theme=dark&bg_color=151515&title_color=6c5ce7&text_color=cccccc"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=LucasL-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
