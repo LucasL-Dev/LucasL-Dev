@@ -1,6 +1,4 @@
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZlazhtbGhjN3hnM3B1cWw3cHgxN3htZzRsaWRhZzZubjlqYnlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  />
-
-###
+<br clear="both">
 
 <h1 align="center">hey, Lucas Levi here 👋</h1>
 
